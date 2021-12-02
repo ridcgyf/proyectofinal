@@ -1,0 +1,133 @@
+*{
+    background: rgb(18, 18, 66);
+    color:oldlace;
+}
+hr.primeralinea{
+    float:right;
+    width: 60%;
+}
+hr{
+    float:right;
+    width: 60%;
+}
+div.titulo{
+    text-align: center;
+}
+div.posteriorderecha{
+    float: left;
+
+}
+span{
+    text-align: justify;
+    text-align: center;
+    color:brown;
+}
+div.posteriorizquierda{
+    float: right;
+ 
+}
+table{
+    background:crimson;
+    text-align: center;
+    padding: 100px;
+    float:left;
+    position:fixed;   
+}
+tr.centrado{
+    text-align: center;
+}
+p.aladerecha{
+    float:right;
+    width: 60%;
+    text-align: justify;
+}
+p{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.botoninferior{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+a:hover{
+    background:indianred;
+}
+div.primeradescripcion{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.segundadescripcion{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.terceradescripcion{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.cuartadescripcion{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.quintadescripcion{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.parrafo1{
+    float:right;
+    width: 60%;
+    text-align: justify;
+}
+div.parrafo2{
+    float:right;
+    width: 60%;
+    text-align: justify;
+}
+div.parrafo3{
+    float:right;
+    width: 60%;
+    text-align: justify;
+}
+
+div.parrafo4{
+    float:right;
+    width: 60%;
+    text-align: justify;
+}
+div.parrafo5{
+    float:right;
+    width: 60%;
+    text-align: justify;
+}
+div.imagen1{
+    float:right;
+    width: 60%;
+    text-align: center;
+
+}
+div.imagen2{
+    float:right;
+    width: 60%;
+    text-align: center;  
+}
+div.imagen3{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.imagen4{
+    float:right;
+    width: 60%;
+    text-align: center;
+}
+div.imagen5{
+    float:right;
+    width: 60%;
+    text-align:center;
+}
